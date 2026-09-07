@@ -1,0 +1,16 @@
+Change Component Library : Designator=J1 Old Library=SamacSys.SchLib New Library=Symbol_library.SCHLIB
+Change Component Library : Designator=J2 Old Library=SamacSys.SchLib New Library=Symbol_library.SCHLIB
+Change Component Library : Designator=J3 Old Library=SamacSys.SchLib New Library=Symbol_library.SCHLIB
+Added Component: Designator=JST XH M(S2BXHA1LFSN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.jst-mfg.com/product/pdf/eng/eXH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "6.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "S2B-XH-A-1(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "306-S2BXHA1LFSN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/JST-Commercial/S2B-XH-A-1LFSN?qs=QpmGXVUTftHhNeC%252BPQWeTw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_P Pin=JST XH M-1
+Added Pin To Net: NetName=GND Pin=JST XH M-2
+Change Class Name : Old Net Name=Splitter_aile_V1_schem New Net Name=Schem
+Added Member To Class: ClassName=Schem Member=Component JST XH M S2B-XH
